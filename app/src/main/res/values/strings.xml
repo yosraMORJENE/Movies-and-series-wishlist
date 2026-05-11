@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Movies Wishlist</string>
+    <string name="add_movie">Add Item</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="watched">Watched</string>
+    <string name="watching">Watching</string>
+    <string name="search_hint">Search movie or series</string>
+    <string name="filter_all">All</string>
+    <string name="filter_watched">Watched</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="sort_by_release">Sort by release date</string>
+    <string name="quote_section">quote of the day </string>
+    <string name="loading_quote">Loading quote…</string>
+    <string name="refresh_quote">Refresh quote</string>
+    <string name="quote_fallback">Keep going! Your next favorite movie is waiting 🎬</string>
+    <string name="no_items">No movies or series found.</string>
+
+    <string name="add_new_item">Add Movie / Series</string>
+    <string name="title">Title</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="episodes_count">Episodes count</string>
+    <string name="already_released">Already released?</string>
+    <string name="release_date_hint">Planned release date (yyyy-MM-dd)</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_movie_hint">Enter a movie or series title</string>
+    <string name="enter_title_first">Please enter a title first.</string>
+    <string name="tmdb_key_missing">TMDB key missing. Add TMDB_API_KEY in gradle.properties.</string>
+    <string name="no_tmdb_result">No TMDB results found for this query.</string>
+    <string name="tmdb_error">TMDB error: %1$s</string>
+    <string name="tmdb_applied">Data loaded from TMDB.</string>
+    <string name="required_field">This field is required</string>
+    <string name="episodes_required">Episodes required for series</string>
+    <string name="started_watching">Started Watching</string>
+    <string name="total_episodes">Total Episodes</string>
+    <string name="episode_progress">Watched %1$d / %2$d episodes</string>
+    <string name="last_watched_episode">Last Watched Episode</string>
+    <string name="select_episode">Select Last Watched Episode</string>
+    <string name="series_progress">Series Progress</string>
+    <string name="series_status_not_started">Not started yet</string>
+    <string name="series_status_watching">Watching now</string>
+    <string name="series_status_completed">Completed</string>
+    <string name="release_day_value">Release day: %1$s</string>
+    <string name="ongoing_status_value">Ongoing: %1$s</string>
+    <string name="episodes">Episodes</string>
+    <string name="no_episodes_yet">No episodes added yet.</string>
+    <string name="search_error_fallback">Search failed. You can still enter the details manually.</string>
+    <string name="tmdb_not_found">No results found. You can continue manually.</string>
+    <string name="tmdb_loaded">Movie data loaded from TMDB.</string>
+
+    <string name="type_value">Type: %1$s</string>
+    <string name="released_value">Released: %1$s</string>
+    <string name="release_date_value">Release date: %1$s</string>
+    <string name="episodes_value">Episodes: %1$s</string>
+    <string name="watched_value">Watched: %1$s</string>
+    <string name="watching_value">Now Watching: %1$s</string>
+    <string name="favorite_value">Favorite: %1$s</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="not_set">Not set</string>
+    <string name="not_applicable">N/A</string>
+    <string name="no_description">No description</string>
+    <string name="mark_watched">Mark as watched</string>
+    <string name="mark_unwatched">Mark as unwatched</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="start_watching">Start Watching</string>
+    <string name="stop_watching">Stop Watching</string>
+    <string name="remind_me">Remind me</string>
+    <string name="invalid_item">Invalid item.</string>
+    <string name="item_not_found">Item not found.</string>
+    <string name="already_watched_no_reminder">Item is already watched.</string>
+    <string name="reminder_sent">Reminder sent.</string>
+
+    <string name="notification_title">Watch Reminder</string>
+    <string name="notification_message">You planned to watch %1$s</string>
+
+    <string name="favorites_and_watched">Favorites / Watched</string>
+    <string name="no_favorites_yet">No favorites/watched items yet.</string>
+
+    <!-- New strings for genres, reviews, and series tracking -->
+    <string name="genre">Genre</string>
+    <string name="genre_value">Genre: %1$s</string>
+    <string name="my_review">My Review / Notes</string>
+    <string name="no_review">No review added yet</string>
+    <string name="edit_review">Edit Review</string>
+    <string name="update_episode">Update Last Episode Watched</string>
+    <string name="last_episode_value">Last Episode Watched: %1$d</string>
+    <string name="movie_title_label">Movie Title</string>
+
+    <!-- Ongoing series strings -->
+    <string name="ongoing_series">Ongoing Series (new episodes releasing)</string>
+    <string name="episode_release_day">Episode Release Day</string>
+    <string name="new_episodes_every">New episodes every: %1$s</string>
+
+    <!-- Navigation strings -->
+    <string name="movie_list">Movie List</string>
+    <string name="watching_now">Watching Now</string>
+    <string name="no_watching">No items currently being watched</string>
+</resources>
